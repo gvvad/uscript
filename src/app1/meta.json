@@ -1,0 +1,10 @@
+{
+  "run-at":"document-start",
+  "include":[
+    "http*://google.*/*",
+    "http*://www.google.*/*",
+    "http*://google.*.*/*",
+    "http*://www.google.*.*/*"
+  ],
+  "noframes":""
+}

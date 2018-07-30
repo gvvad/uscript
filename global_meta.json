@@ -1,0 +1,8 @@
+{
+  "name":"untitled",
+  "version":"0.1",
+  "description":"why",
+  "author":"you",
+  "run-at":"document-start",
+  "license":"GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt"
+}
