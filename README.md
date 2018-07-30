@@ -1,6 +1,6 @@
 # Build tool for user script
 
-###Install:
+### Install:
 * `npm install`
 
 ### Using:
